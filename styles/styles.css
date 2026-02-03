@@ -431,7 +431,7 @@ button.cta-button {
 .subtitle {
 
     text-decoration: underline;
-    text-decoration-color: rgb(208, 0, 255);
+    text-decoration-color: rgb(0, 208, 255);
     /* subrayado en celeste brillante */
     text-decoration-thickness: 2px;
     /* grosor del subrayado */
